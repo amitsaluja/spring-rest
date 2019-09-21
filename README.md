@@ -1,2 +1,5 @@
 # spring-rest
-spring boot 2 +rest example
+Spimple Spring Boot(non reactive) addplication with Rest endpoints to 
+a. create users (in memory)
+b. getusers by Id
+c. get all users.
